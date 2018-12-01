@@ -7,4 +7,3 @@
 //Current State Definition
 
 //Next State Selection => Magnitude
-
